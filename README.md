@@ -1,6 +1,6 @@
 # LSTMDamStoragePrediction
 
-## Descripción:
+## Descripción
 
 LSTMDamStoragePrediction es un proyecto diseñado para predecir el almacenamiento de agua en presas de Sonora utilizando redes neuronales LSTM (Long Short-Term Memory). Las presas juegan un papel crucial en la gestión de los recursos hídricos, proporcionando agua para consumo humano, riego, generación de energía hidroeléctrica y control de inundaciones. La capacidad de predecir con precisión los niveles de almacenamiento de agua es fundamental para optimizar la operación y gestión de estos recursos.
 
