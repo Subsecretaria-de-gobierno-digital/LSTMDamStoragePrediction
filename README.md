@@ -21,7 +21,7 @@ Entrenamiento de Modelos LSTM: Implementación de redes LSTM para aprender y pre
 
 
 ## Tecnologías Utilizadas
--**Python:** Lenguaje de programación principal para el desarrollo del proyecto.
+- **Python:** Lenguaje de programación principal para el desarrollo del proyecto.
 - **TensorFlow/Keras:** Bibliotecas para la implementación de redes neuronales LSTM.
 - **Pandas/Numpy:** Herramientas para el manejo y análisis de datos.
 - **Matplotlib/Seaborn:** Bibliotecas de visualización de datos.
